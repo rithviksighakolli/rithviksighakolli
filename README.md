@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithviksighakolli&label=Profile%20views&color=ff0000&style=plastic" alt="rithviksighakolli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithviksighakolli" alt="rithviksighakolli" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
